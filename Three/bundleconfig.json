@@ -1,0 +1,21 @@
+[
+  {
+    "outputFileName": "wwwroot/css/all.min.css",
+    "inputFiles": [
+      "wwwroot/css/site.css",
+      "wwwroot/lib/bookstrap/dist/css/bootstrap.css"
+    ]
+
+  },
+  {
+    "outputFileName": "wwwroot/css/bootstrap.css",
+    "inputFiles": [
+      "wwwroot/lib/bookstrap/dist/css/bootstrap.css"
+    ],
+
+    "minify": {
+      "enabled": true
+    }
+  }
+
+]
