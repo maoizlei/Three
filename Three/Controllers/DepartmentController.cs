@@ -19,7 +19,7 @@ namespace Three.Controllers
         public async Task<IActionResult> Index()
         {
             ViewBag.Title = "Department Index";
-            var departments = _departmentService.GetAll();
+            var departments = await _departmentService.GetAll();
             return View(departments);
         }
 

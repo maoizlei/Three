@@ -82,3 +82,8 @@ F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.dll
 F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.pdb
 F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.genruntimeconfig.cache
 F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.csproj.CopyComplete
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\Department\DisplayTemplates\Department.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\Employee\DisplayTemplates\Employee.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Index.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\Department\Add.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Add.cshtml.g.cs

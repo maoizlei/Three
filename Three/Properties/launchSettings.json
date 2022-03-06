@@ -1,4 +1,4 @@
-﻿{
+{
   "Three": {
     "commandName": "Project",
     "launchBrowser": true,
@@ -6,6 +6,15 @@
     "environmentVariables": {
       "ASPNETCORE_ENVIRONMENT": "Development"
     }
+  },
+  "profiles": {
+    "Three": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
   }
 }
-

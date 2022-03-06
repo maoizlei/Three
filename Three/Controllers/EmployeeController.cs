@@ -39,6 +39,7 @@ namespace Three.Controllers
             });
         }
 
+        [HttpPost]
         public async Task<IActionResult> Add(Employee model)
         {
             if (ModelState.IsValid)
