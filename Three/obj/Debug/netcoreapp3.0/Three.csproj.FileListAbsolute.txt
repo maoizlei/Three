@@ -40,3 +40,45 @@ C:\Users\Administrator\source\repos\Three\Three\obj\Debug\netcoreapp3.0\Razor\Vi
 C:\Users\Administrator\source\repos\Three\Three\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Administrator\source\repos\Three\Three\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Administrator\source\repos\Three\Three\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\appsettings.json
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\libman.json
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.StaticWebAssets.xml
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.exe
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.deps.json
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.runtimeconfig.json
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.runtimeconfig.dev.json
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.dll
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.pdb
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.Views.dll
+F:\asp.net core\Three\bin\Debug\netcoreapp3.0\Three.Views.pdb
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.csproj.AssemblyReference.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.AssemblyInfoInputs.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.AssemblyInfo.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.csproj.CoreCompileInputs.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.MvcApplicationPartsAssemblyInfo.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.RazorAssemblyInfo.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.RazorAssemblyInfo.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\staticwebassets\Three.StaticWebAssets.Manifest.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.TagHelpers.input.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.TagHelpers.output.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.RazorCoreGenerate.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\Department\Index.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.RazorTargetAssemblyInfo.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.RazorTargetAssemblyInfo.cs
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.Views.pdb
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.dll
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.pdb
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.genruntimeconfig.cache
+F:\asp.net core\Three\obj\Debug\netcoreapp3.0\Three.csproj.CopyComplete
