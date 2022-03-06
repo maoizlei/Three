@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "JR6Ncd0dIKFRwlDYTBVkIaPy36QLqnxIFKQFRO2DQQnR6QbxpOvAQ85cKpkJmjznSA+b3gYRK9y3Don54VpLoA==",
+  "dgSpecHash": "SR1PvqAwfPZu8l8IOc0ZpbpQw1icPE2Us149CPMArZAYDkgtbG+GSM5mhkgtij+lylwpoarhzr4Qd38vdUm9ug==",
   "success": true,
-  "projectFilePath": "F:\\Three\\Three\\Three.csproj",
+  "projectFilePath": "F:\\asp.net core\\Three\\Three.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maozilei\\.nuget\\packages\\buildbundlerminifier\\2.9.406\\buildbundlerminifier.2.9.406.nupkg.sha512",
-    "C:\\Users\\Maozilei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\Maozilei\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\Maozilei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\Maozilei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\Maozilei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Maozilei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Maozilei\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

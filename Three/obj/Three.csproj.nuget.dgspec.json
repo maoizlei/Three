@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Three\\Three\\Three.csproj": {}
+    "F:\\asp.net core\\Three\\Three.csproj": {}
   },
   "projects": {
-    "F:\\Three\\Three\\Three.csproj": {
+    "F:\\asp.net core\\Three\\Three.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Three\\Three\\Three.csproj",
+        "projectUniqueName": "F:\\asp.net core\\Three\\Three.csproj",
         "projectName": "Three",
-        "projectPath": "F:\\Three\\Three\\Three.csproj",
+        "projectPath": "F:\\asp.net core\\Three\\Three.csproj",
         "packagesPath": "C:\\Users\\Maozilei\\.nuget\\packages\\",
-        "outputPath": "F:\\Three\\Three\\obj\\",
+        "outputPath": "F:\\asp.net core\\Three\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maozilei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "BuildBundlerMinifier": {
               "target": "Package",
@@ -79,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
