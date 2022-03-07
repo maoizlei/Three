@@ -15,6 +15,10 @@ namespace Three
 {
     public class Startup
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="configuration">配置信息</param>
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -38,6 +42,7 @@ namespace Three
             services.AddSingleton<IDepartmentService, DepartmentService>();
             services.AddSingleton<IEmployeeService, EmployeeService>();
 
+            services.Configure<ThreeOptions>(Configuration.GetSection("Three"));
         }
 
         /// <summary>
