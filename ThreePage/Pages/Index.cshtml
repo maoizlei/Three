@@ -1,0 +1,33 @@
+﻿@page
+@using ThreePage.Models
+@using ThreePage.Services
+@inject IDepartmentService departmentService
+
+<div class="row">
+    <div class="col-md-10 offset-md-2">
+        <table class="table">
+            <tr>
+                <th>Name</th>
+                <th>Localtion</th>
+                <th>Employee</th>
+                <th>操作</th>
+            </tr>
+            <tr>
+                <th>
+                    @Html.DisplayFor(x=>x.Departments)
+                </th>
+            </tr>
+        </table>
+    </div>
+</div>
+
+@functions
+{
+    public IEnumerable<Department> Departments { get; set; }
+
+    public async Task OnGetAsync()
+    {
+        Departments = await departmentService.GetAll();
+    }
+
+}

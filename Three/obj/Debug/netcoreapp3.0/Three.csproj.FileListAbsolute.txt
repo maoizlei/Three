@@ -98,7 +98,6 @@ C:\Users\Administrator\Desktop\Three\Three\Three\bin\Debug\netcoreapp3.0\Three.d
 C:\Users\Administrator\Desktop\Three\Three\Three\bin\Debug\netcoreapp3.0\Three.pdb
 C:\Users\Administrator\Desktop\Three\Three\Three\bin\Debug\netcoreapp3.0\Three.Views.dll
 C:\Users\Administrator\Desktop\Three\Three\Three\bin\Debug\netcoreapp3.0\Three.Views.pdb
-C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Three.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Three.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Three.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Three.AssemblyInfo.cs
@@ -135,3 +134,4 @@ C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Three.d
 C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Three.pdb
 C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Three.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Three.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Three\Three\Three\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\CompanySummary\Default.cshtml.g.cs
