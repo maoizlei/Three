@@ -1,0 +1,11 @@
+﻿@model ThreePage.Models.Department
+
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.Location</td>
+    <td>@Model.EmployeeCount</td>
+
+    <td>
+        <a asp-page="Employee" asp-route-departmentId="@Model.Id">Employee</a>
+    </td>
+</tr>

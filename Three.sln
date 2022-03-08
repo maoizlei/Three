@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three", "Three\Three.csproj", "{68A26213-5894-48B0-8B20-62B635F31E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreePage", "ThreePage\ThreePage.csproj", "{82708062-9653-4D21-855F-D9C74BB94839}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreePage", "ThreePage\ThreePage.csproj", "{82708062-9653-4D21-855F-D9C74BB94839}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

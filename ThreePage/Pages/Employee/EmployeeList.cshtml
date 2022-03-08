@@ -1,0 +1,44 @@
+﻿@page "{departmentId:int}"
+
+@using Microsoft.AspNetCore.Mvc.RazorPages
+@using ThreePage.Models
+@using ThreePage.Services
+
+<div class="row">
+    <div class="col-md-10 offset-md-2">
+        <table class="table">
+            <tr>
+                <td>FirstName</td>
+                <td>LastName</td>
+                <td>Gender</td>
+                <td>Is Fired</td>
+                <td>操作</td>
+
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+@functions
+{
+    public class EmployeeListModel : PageModel
+    {
+
+        public readonly IEmployeeService _employeeServic;
+
+        public IEnumerable<Employee> Employees { get; set; }
+
+        public EmployeeListModel(IEmployeeService employeeService)
+        {
+            _employeeServic = employeeService;
+        }
+
+        public async Task OnGet(int departmentId)
+        {
+            Employees = await _employeeServic.GetByDepartmentId(departmentId);
+            ViewData["departmentId"] = departmentId;
+        }
+    }
+
+}

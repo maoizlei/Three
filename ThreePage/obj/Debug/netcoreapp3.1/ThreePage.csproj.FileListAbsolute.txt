@@ -36,3 +36,7 @@ C:\Users\Administrator\Desktop\Three\Three\ThreePage\obj\Debug\netcoreapp3.1\Thr
 C:\Users\Administrator\Desktop\Three\Three\ThreePage\obj\Debug\netcoreapp3.1\ThreePage.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Three\Three\ThreePage\obj\Debug\netcoreapp3.1\ThreePage.csproj.CopyComplete
 C:\Users\Administrator\Desktop\Three\Three\ThreePage\obj\Debug\netcoreapp3.1\ThreePage.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Three\Three\ThreePage\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Administrator\Desktop\Three\Three\ThreePage\obj\Debug\netcoreapp3.1\Razor\Pages\DisplayTemplates\Department.cshtml.g.cs
+C:\Users\Administrator\Desktop\Three\Three\ThreePage\obj\Debug\netcoreapp3.1\Razor\Pages\Department\AddDepartment.cshtml.g.cs
+C:\Users\Administrator\Desktop\Three\Three\ThreePage\obj\Debug\netcoreapp3.1\Razor\Pages\DisplayTemplates\Employee.cshtml.g.cs

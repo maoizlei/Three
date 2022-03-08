@@ -12,18 +12,19 @@
                 <th>Employee</th>
                 <th>操作</th>
             </tr>
-            <tr>
-                <th>
-                    @Html.DisplayFor(x=>x.Departments)
-                </th>
-            </tr>
+            @Html.DisplayFor(x=>x.Departments)
         </table>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4 offset-md-2">
+        <a asp-page="/Department/AddDepartment">Add</a>
     </div>
 </div>
 
 @functions
 {
-    public IEnumerable<Department> Departments { get; set; }
+    public IEnumerable<Models.Department> Departments { get; set; }
 
     public async Task OnGetAsync()
     {

@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "bookstrap@1.4.27",
+      "destination": "wwwroot/lib/bookstrap/",
+      "files": [
+        "dist/css/bookstrap-app.css"
+      ]
+    }
+  ]
+}
