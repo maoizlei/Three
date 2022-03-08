@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three", "Three\Three.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreePage", "ThreePage\ThreePage.csproj", "{82708062-9653-4D21-855F-D9C74BB94839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglR", "SinglR\SinglR.csproj", "{56A450C0-229D-4BA5-9BC1-B0F013EFC27B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{82708062-9653-4D21-855F-D9C74BB94839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82708062-9653-4D21-855F-D9C74BB94839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82708062-9653-4D21-855F-D9C74BB94839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A450C0-229D-4BA5-9BC1-B0F013EFC27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A450C0-229D-4BA5-9BC1-B0F013EFC27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A450C0-229D-4BA5-9BC1-B0F013EFC27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A450C0-229D-4BA5-9BC1-B0F013EFC27B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
